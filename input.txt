@@ -1,0 +1,16 @@
+int main() {
+    int x = 1;
+    if (x > 10) {
+    cout<<"You are greater"<<endl;
+}else {
+   cout<<"You are a Lowser"<<endl;    
+}
+  for (; ;) {
+    for (; ;) {
+    
+}
+while (1) {
+    
+}
+}
+}
