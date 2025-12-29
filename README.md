@@ -17,11 +17,14 @@ A Java-based C/C++ lexical analyzer and syntax highlighter with a modern GUI. Fe
 - Tabbed editor, dark/light themes, line numbers, find/replace
 - Export analysis results to file
 
-## Screenshot
 
-![W++ Compiler IDE Screenshot](images/screenshot.png)
+## Application GUI
 
-*W++ Compiler IDE - Final Professional Edition in action: real-time syntax highlighting, error marking, and token analysis for C++ code.*
+<p align="center">
+   <img src="images/screenshot.png" alt="W++ Compiler IDE - GUI Overview" style="max-width:100%; border:1px solid #ccc;">
+</p>
+
+<p align="center"><em>The W++ Compiler IDE features a modern, tabbed interface with real-time syntax highlighting, error marking, and token analysis for C++ code. The screenshot below shows the main editor and analysis panels in action.</em></p>
 
 ## Requirements
 
